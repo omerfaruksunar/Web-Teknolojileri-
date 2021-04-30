@@ -6,10 +6,11 @@ Web Teknolojileri Proje Ödevi
 
 g201210075
 
-#Proje Amacı:
+#PROJE AMACI:
 -	Kendimi ve şehrimi tanıttığım bir web sayfası oluşturma.
 
 #İÇERİK:
+
 #Hakkımda
 -	Giriş sayfası niteliğinde bir “Hakkımda” sayfası oluşturacağım. 
 -	Bu sayfa kendimi tanıttığım ve yapmaktan hoşlandığım şeyleri içeren bir sayfa olacak.
