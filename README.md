@@ -45,5 +45,5 @@
 
 # PROJE SÜRECİ:
 -	İlk olarak sayfaların html ve tasarım kodlarının yazılması.
--	Ardından javascript ve php dosyalarının oluşturulması,
+-	Ardından javascript ve php dosyalarının oluşturulması.
 -	Son olarak eksiklerin ve eklemek istediğim kısımların eklenmesi.
