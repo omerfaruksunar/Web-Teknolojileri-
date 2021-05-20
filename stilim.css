@@ -1,0 +1,45 @@
+.jumbotron {
+   
+    
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+  }
+
+ 
+
+  
+
+  .link1 {
+    color: purple;
+
+  }
+
+  .link1:hover {
+    opacity: 0.6;
+    transition: opacity 0.9s;
+    background-size: 180% auto;
+
+  }
+
+  .Ben {
+    margin-top: 35px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: lightgray;
+    width: 75%;
+    text-align: center;
+    color: lightslategrey;
+  }
+
+  .menü2{
+    width: 75%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .resim{
+    margin-top: 75px;
+    width: 1000px;
+    height: 700px;
+  }
