@@ -1,0 +1,110 @@
+.jumbotron {
+   
+    
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+  }
+
+  .link1 {
+    color: black;
+
+  }
+
+  .link1:hover {
+    opacity: 0.6;
+    transition: opacity 0.9s;
+    background-size: 180% auto;
+
+  }
+
+  .Ben {
+    margin-top: 35px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: lightgray;
+    width: 75%;
+    text-align: center;
+    color: lightslategrey;
+  }
+
+  .menü2{
+    width: 75%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .resim{
+    margin-top: 75px;
+    width: 1000px;
+    height: 700px;
+  }
+
+  #ofsozgecmis{
+    width: 200px;
+  }
+
+  #slidersehrim{
+    width: 800px;
+  }
+
+  #aizanoiresim1{
+    margin-top: 15px;
+  }
+
+  #aizanoitext{
+    text-align: center;
+  }
+  
+  #iletisimbilgileritext{
+    text-align: center;
+    color: white;
+  }
+
+  #form{
+    margin-top: 15px;
+    font-size: 20px;
+    color: white;
+  }
+
+  #submit{
+    background-color: white;
+    margin-top: 5px;
+  }
+
+  #sub{
+    background-color: white;
+    margin-top: 5px;
+  }
+  
+  #cardheader{
+    background-color: rgb(74, 98, 114);
+    color: white;
+  }
+
+  #jumbotron{
+    background-image: url(img/OFS8.jpg);
+    color: rgb(14, 13, 13);
+  }
+
+  #sehrimizheader{
+    background-color: rgb(141, 136, 136);
+    color: honeydew;
+  }
+
+  #sehrimiztext{
+    background-color: beige;
+  }
+
+  #footer1
+{
+    
+        position: fixed;
+        bottom: 0px;
+        left: 0px;
+        width: 100%;
+        height: 50px;
+        padding:15px;
+        background-color: #000;
+   
+}
